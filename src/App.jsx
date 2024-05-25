@@ -1,11 +1,8 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
   return (
-    <div className='content'>
+    <div className='container'>
       <h1>Learn Web Development</h1>
       <p>Welcome to the MDN learning area. This set of article aims to provide complete beginners to web development with all that they need to start coding websites.</p>
       <p>The aim of this area of MDN is not to take you from "beginner" to "espert" but to take you from "beginner" to "comfortable". From there, you should be able to start making your way, learning from the <a href="https://developer.mozilla.org/en-US/" target='_blank'>rest of MDN</a>, and other intermediate to advanced resources that assume a lot of previous knowledge.</p>
