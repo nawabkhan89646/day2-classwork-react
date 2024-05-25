@@ -1,0 +1,7 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 0.8rem;
+  line-height: 1.5;
+}
